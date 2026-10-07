@@ -4,7 +4,7 @@
 
 | ファイル | 内容 | 大きさ |
 |---|---|---|
-| `coffeeblaker_logo.aseprite` / `.png` | ロゴ(割れたコーヒーカップ + 文字) | 200x40 (透明背景) |
+| `coffeeblaker_logo.aseprite` / `.png` | ロゴ(割れたコーヒーカップ + 文字) | 169x41 (透明背景・左右の余白は均等) |
 | `coffeeblaker_icon.aseprite` / `.png` | アイコン(割れたコーヒーカップ) | 64x64 (背景 #1c1018) |
 
 ## 配色
